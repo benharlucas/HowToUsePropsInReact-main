@@ -5,7 +5,7 @@ html {
 }
 
 main {
-  min-height: 84vh;
+  min-height: 500vh;
   text-align: center;
-  padding: 5px;
+  padding: 20px;
 }
